@@ -1,6 +1,6 @@
 {
     "name": "2checkout-nodejs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description" : "A node.js wrapper for the 2Checkout Payment API.",
     "author" : "Simon Achkar <alachkarsimon@gmail.com>",
     "main" : "lib/2checkout.js",
