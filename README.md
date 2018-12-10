@@ -3,13 +3,14 @@
 
 Full documentation for each binding is provided in the **[wiki](https://github.com/2Checkout/2checkout-node/wiki)**.
 
-This library provides developers with a simple set of bindings to the 2Checkout Payment API, Hosted Checkout, Instant Notification Service and Admin API.
+This library is forked from the [original 2Checkout Node.js Library](https://github.com/2Checkout/2checkout-node). The difference is that you don't need to clone and then install (which will install to local file)
 
-To use, download or clone the repository and install with npm.
+
+
+To use just install with npm.
 
 ```shell
-git clone https://github.com/craigchristenson/2checkout-node.git
-npm install 2checkout-node
+npm install 2checkout-nodejs --save
 ```
 
 Then you can require the module and setup the 2Checkout object with a number of options shown below.
